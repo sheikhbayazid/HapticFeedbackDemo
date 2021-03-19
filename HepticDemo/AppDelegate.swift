@@ -1,6 +1,6 @@
 //
 //  AppDelegate.swift
-//  HepticDemo
+//  HapticDemo
 //
 //  Created by Sheikh Bayazid on 8/10/20.
 //  Copyright © 2020 Sheikh Bayazid. All rights reserved.
